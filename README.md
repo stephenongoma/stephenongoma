@@ -1,9 +1,10 @@
 ## Hi there 👋
+My name is Stephen, and I'm a computer science student at DeKUT in Kenya interested in all things Python & Data Science!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently working on [HelloCreator](https//hellocreator.com), building an AI-powered companion for social media creators. 
+- 👯 I recently built a program to automatically download and transcribe your favourite podcasts, check it out [here](https://github.com/stephenongoma)
+- 🤔 i'm looking to colaboorate on YouTube videos!
+  -  Send ideas to stephenelphas@gmail.com
 
 <!--
 **stephenongoma/stephenongoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
